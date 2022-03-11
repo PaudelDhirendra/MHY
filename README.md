@@ -1,4 +1,4 @@
-﻿# UX-Portfolio
+﻿# MHY-Project
 
 This site includes portion of my UX and UI Design knowledge during UX training.
 Listed below are some of the skills included to build this site:
@@ -20,4 +20,4 @@ Link to my Front End Website and some of my finished projects
 </li>
 </ul>
 <h1>Live URL: </h1>
-https://paudeldhirendra.github.io/
+https://www.mhy.org.np/
